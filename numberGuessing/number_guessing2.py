@@ -10,7 +10,7 @@ user_number = user_guess_number()
 print("="*12)
 print()
 try_again = True
-#create random number
+#create random number Primer enfoque
 pc_number = randint(1, 100)
 
 while try_again:
